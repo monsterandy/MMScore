@@ -9,10 +9,7 @@ import java.util.Map;
 import java.util.List;
 
 import javax.swing.*;
-import javax.swing.text.BadLocationException;
-import javax.swing.text.SimpleAttributeSet;
-import javax.swing.text.StyleConstants;
-import javax.swing.text.StyledDocument;
+import javax.swing.text.*;
 
 @SuppressWarnings("serial")
 public class ScoreSort extends JPanel implements ActionListener {
